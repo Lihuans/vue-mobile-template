@@ -1,7 +1,9 @@
 {
-  "name": "vue-mobile-template",
+  "name": "{{ name }}",
   "private": true,
   "version": "0.0.0",
+  "description": "{{ description }}",
+  "author": "{{ author }}",
   "type": "module",
   "scripts": {
     "dev": "vite",
